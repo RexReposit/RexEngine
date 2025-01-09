@@ -1,4 +1,4 @@
-#Minimal sample
+# Minimal sample
 
 ```Go
 package main
